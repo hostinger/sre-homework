@@ -14,7 +14,9 @@ The role(s) should do the following tasks:
 Please use the software stack below:
 
 https://github.com/test-kitchen/kitchen-vagrant
+
 https://github.com/neillturner/kitchen-ansible
+
 https://github.com/sstephenson/bats
 
 ### Question 1
