@@ -33,6 +33,5 @@ You have one MySQL instance which becomes saturated. Please describe in as much 
 * Please answer each question in a separate _txt_ file.
 * Please use _git_ for practical exercise to log all changes you do.
 * Write the summary line and description of what you have done in the imperative mode, that is as if you were commanding someone. Start the line with "Add", "Change" instead of "Fixed", "Added", "Changed".
-* Do NOT start PR name with Fix because it doesn't say anything at all.
 * Archive homework practical exercise into a single .tar.gz, .zip, etc.
 * Send homework to our HR as a single file.
