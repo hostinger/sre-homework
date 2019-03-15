@@ -26,7 +26,7 @@ A service daemon in production stopped working and not responding to network req
 A user on a Linux machine enters `curl https://www.hostinger.com`. Please describe in as much detail as you can the lifecycle of the command and what happens in the kernel, over the network, and on Hostinger servers before the command completes.
 
 ### Question 3
-You have one MySQL instance which becomes saturated. Please describe in as much detail as you can how and what technologies would you use to scale MySQL service to handle thousands of requests.
+You have one MySQL instance which becomes saturated. Please describe in as much detail as you can how and what technologies would you use to scale MySQL service to handle thousands of requests. This includes reads and writes.
 
 ## Requirements for the homework
 
