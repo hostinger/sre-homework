@@ -1,4 +1,4 @@
-### Hostinger DevOps homework (Practical)
+## Hostinger SRE practical homework
 
 Please create Ansible playbook with a role(s) which should do the following tasks:
 
@@ -19,14 +19,11 @@ https://github.com/neillturner/kitchen-ansible
 
 https://github.com/sstephenson/bats
 
-### Question 1
+## Question 1
 A service daemon in production stopped working and not responding to network requests. You received alert about the health of the service and logged in the affected node to troubleshoot. Please describe in detail what actions would you do and how are you going to do that.
 
-### Question 2
-A user on a Linux machine enters `curl https://www.hostinger.com`. Please describe in as much detail as you can the lifecycle of the command and what happens in the kernel, over the network, and on Hostinger servers before the command completes.
-
-### Question 3
-You have one MySQL instance which becomes saturated. Please describe in as much detail as you can how and what technologies would you use to scale MySQL service to handle thousands of requests. This includes reads and writes.
+## Question 2
+You are asked to prepare a development environment to be fully ready to develop and test the application using Kubernetes and [12factor](https://12factor.net) methodology. Please define how the CI/CD workflow would look like and which tools you gonna use and why.
 
 ## Requirements for the homework
 
